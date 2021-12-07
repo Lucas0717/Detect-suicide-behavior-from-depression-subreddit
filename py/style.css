@@ -1,0 +1,4 @@
+* {margin:0;padding:0;border:0;border-collapse:collapse;}
+table { width:100%; }
+thead { background: -webkit-linear-gradient(bottom, rgba(222,22,22,1) 0%, rgba(222,222,222,0) 20%, rgba(222,222,222,0) 80%, rgba(222,222,222,1) 100%); }
+thead tr, thead th { background:transparent; }
